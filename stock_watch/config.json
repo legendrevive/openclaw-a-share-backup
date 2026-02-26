@@ -1,0 +1,35 @@
+{
+  "stocks": [
+    {
+      "code": "603993",
+      "name": "洛阳钼业",
+      "industry": "有色金属",
+      "watch": true
+    },
+    {
+      "code": "600111",
+      "name": "北方稀土",
+      "industry": "稀土",
+      "watch": true
+    },
+    {
+      "code": "002413",
+      "name": "雷科防务",
+      "industry": "军工",
+      "watch": true
+    }
+  ],
+  "alerts": {
+    "price_change_pct": 5,
+    "volume_spike": 2,
+    "news_keywords": ["公告", "财报", "重组", "增持", "减持"]
+  },
+  "schedule": {
+    "intraday_report": ["10:30", "14:00"],
+    "after_market_report": "15:30"
+  },
+  "notification": {
+    "channel": "feishu",
+    "user": "刘亚洲"
+  }
+}

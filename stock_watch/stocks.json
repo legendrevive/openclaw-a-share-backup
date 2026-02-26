@@ -1,0 +1,30 @@
+{
+  "stocks": [
+    {
+      "name": "洛阳钼业",
+      "code": "603993",
+      "market": "SH",
+      "target_price_up": null,
+      "target_price_down": null
+    },
+    {
+      "name": "北方稀土",
+      "code": "600111",
+      "market": "SH",
+      "target_price_up": null,
+      "target_price_down": null
+    },
+    {
+      "name": "雷科防务",
+      "code": "002413",
+      "market": "SZ",
+      "target_price_up": null,
+      "target_price_down": null
+    }
+  ],
+  "notification": {
+    "channel": "feishu",
+    "enabled": true
+  },
+  "check_interval_minutes": 5
+}
