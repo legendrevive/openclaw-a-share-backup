@@ -1,0 +1,18 @@
+{
+  "bound": true,
+  "feishu_user_id": "ou_8b07ed9ccd79a1ed981ab6888dd977d1",
+  "bound_time": "2026-02-26 22:27",
+  "notification_types": [
+    "momentum_report",
+    "morning_recommend",
+    "price_alert",
+    "market_close",
+    "position_reminder"
+  ],
+  "schedules": {
+    "momentum_report": "0 8 * * 1-5",
+    "morning_recommend": "30 8 * * 1-5",
+    "market_close": "30 15 * * 1-5"
+  },
+  "enabled": true
+}
