@@ -1,0 +1,2520 @@
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 08:00:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 08:10:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 08:20:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 08:30:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 08:40:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 08:50:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 09:00:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 09:10:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 09:20:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 09:30:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 09:40:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 09:50:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 10:00:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 10:10:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 10:20:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 10:30:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 10:40:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 10:50:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 11:00:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 11:10:04
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 11:20:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 11:30:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 11:40:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 11:50:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 13:00:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 13:10:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 13:20:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 13:30:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 13:40:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 13:50:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 14:00:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 14:10:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 14:20:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 14:30:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 14:40:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 14:50:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 15:00:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 15:10:02
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 15:20:06
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 15:30:01
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 15:40:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+
+获取期货 CU2602 失败：Remote end closed connection without response
+获取期货 AL2602 失败：Remote end closed connection without response
+获取期货 ZN2602 失败：Remote end closed connection without response
+获取期货 PB2602 失败：Remote end closed connection without response
+获取期货 NI2602 失败：Remote end closed connection without response
+获取期货 SN2602 失败：Remote end closed connection without response
+获取期货 AU2602 失败：Remote end closed connection without response
+获取期货 AG2602 失败：Remote end closed connection without response
+获取期货 RB2602 失败：Remote end closed connection without response
+获取期货 HC2602 失败：Remote end closed connection without response
+获取期货 I2602 失败：Remote end closed connection without response
+获取期货 JM2602 失败：Remote end closed connection without response
+获取期货 J2602 失败：Remote end closed connection without response
+获取期货 SC2602 失败：Remote end closed connection without response
+获取期货 FU2602 失败：Remote end closed connection without response
+获取期货 TA2602 失败：Remote end closed connection without response
+获取期货 MA2602 失败：Remote end closed connection without response
+获取期货 L2602 失败：Remote end closed connection without response
+获取期货 V2602 失败：Remote end closed connection without response
+获取期货 M2602 失败：Remote end closed connection without response
+获取期货 Y2602 失败：Remote end closed connection without response
+获取期货 P2602 失败：Remote end closed connection without response
+获取期货 C2602 失败：Remote end closed connection without response
+获取期货 LH2602 失败：Remote end closed connection without response
+⏰ 期货市场快报 - 2026-02-27 15:50:03
+
+🔹 ➖ 有色金属
+   沪铜: 数据暂缺
+   沪铝: 数据暂缺
+   沪锌: 数据暂缺
+   沪铅: 数据暂缺
+   沪镍: 数据暂缺
+   沪锡: 数据暂缺
+
+🔹 ➖ 贵金属
+   沪金: 数据暂缺
+   沪银: 数据暂缺
+
+🔹 ➖ 黑色系
+   螺纹钢: 数据暂缺
+   热轧卷板: 数据暂缺
+   铁矿石: 数据暂缺
+   焦煤: 数据暂缺
+   焦炭: 数据暂缺
+
+🔹 ➖ 能源化工
+   原油: 数据暂缺
+   燃油: 数据暂缺
+   PTA: 数据暂缺
+   甲醇: 数据暂缺
+   塑料: 数据暂缺
+   PVC: 数据暂缺
+
+🔹 ➖ 农产品
+   豆粕: 数据暂缺
+   豆油: 数据暂缺
+   棕榈油: 数据暂缺
+   玉米: 数据暂缺
+   生猪: 数据暂缺
+

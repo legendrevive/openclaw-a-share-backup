@@ -1,0 +1,21 @@
+
+# ============ Situation Monitor 实时推送 ============
+
+# 实时新闻推送 - 每 5 分钟检查一次重要新闻
+*/5 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 situation_realtime_push.py >> situation_realtime_log.txt 2>&1
+
+# 盘后推送汇总 - 每天 16:05 发送当日推送汇总
+5 16 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 -c "
+import json
+from pathlib import Path
+from datetime import datetime
+
+file = Path('/Users/liuyazhou/.openclaw/workspace/stock_watch/situation_alert_history.json')
+if file.exists():
+    data = json.load(open(file))
+    today = datetime.now().strftime('%Y-%m-%d')
+    today_alerts = [a for a in data.get('alerts', []) if a['timestamp'].startswith(today)]
+    print(f'今日推送：{len(today_alerts)} 条')
+    for a in today_alerts[-5:]:
+        print(f\"  - [{a['priority']}] {a['title'][:50]}...\")
+" >> situation_push_summary.txt 2>&1

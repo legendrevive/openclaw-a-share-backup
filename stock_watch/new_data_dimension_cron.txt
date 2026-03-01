@@ -1,0 +1,32 @@
+
+# ============ 新增数据维度监控任务 ============
+
+# 资金流向监控 - 交易日每 30 分钟监控北向资金、主力资金
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 money_flow_monitor.py >> money_flow_log.txt 2>&1
+
+# 政策监控 - 每小时监控一次重要政策
+0 9-18 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 policy_monitor.py >> policy_monitor_log.txt 2>&1
+
+# 财报数据监控 - 每天 18:00 监控财报预告和财务指标
+0 18 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 financial_report_monitor.py >> financial_report_log.txt 2>&1
+
+# 市场情绪监控 - 交易日每 15 分钟监控情绪指标
+*/15 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 market_sentiment.py >> sentiment_monitor_log.txt 2>&1
+
+# 技术分析监控 - 交易日每 30 分钟监控技术指标
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 technical_analysis.py >> technical_analysis_log.txt 2>&1
+
+# 龙虎榜监控 - 交易日 17:30 分析龙虎榜数据
+30 17 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 institution_monitor.py >> institution_monitor_log.txt 2>&1
+
+# 股东增减持监控 - 每天 20:00 监控股东交易
+0 20 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 shareholder_monitor.py >> shareholder_log.txt 2>&1
+
+# 行业景气度监控 - 每周一 8:00 监控行业数据
+0 8 * * 1 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 industry_monitor.py >> industry_log.txt 2>&1
+
+# 宏观经济数据监控 - 每月 1 号、15 号 9:00 监控宏观数据
+0 9 1,15 * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 macro_monitor.py >> macro_log.txt 2>&1
+
+# 研报数据监控 - 每天 19:30 监控券商研报
+30 19 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 research_report_monitor.py >> research_report_log.txt 2>&1

@@ -1,0 +1,34 @@
+[2026-02-28 11:33:37] === 邮箱监控守护进程启动 ===
+[2026-02-28 11:33:37] 邮箱：legend_openclaw@163.com
+[2026-02-28 11:33:37] 检查频率：每 30 分钟
+[2026-02-28 11:33:37] PID: 21904
+[2026-02-28 11:33:37] 检查邮箱...
+[2026-02-28 11:33:37] === 检查 163 邮箱 ===
+无法访问收件箱：SELECT Unsafe Login. Please contact kefu@188.com for help
+可用文件夹:
+  () "/" "INBOX"
+  (\Drafts) "/" "&g0l6P3ux-"
+  (\Sent) "/" "&XfJT0ZAB-"
+  (\Trash) "/" "&XfJSIJZk-"
+  (\Junk) "/" "&V4NXPpCuTvY-"
+  () "/" "&dcVr0mWHTvZZOQ-"
+[2026-02-28 11:33:38] ⏳ 未找到邀请码，继续监控...
+[2026-02-28 11:33:38] 检查完成
+[2026-02-28 11:33:38] 等待 30 分钟后再次检查...
+[2026-02-28 11:56:27] === 邮箱监控守护进程启动 ===
+[2026-02-28 11:56:27] 邮箱：legend_openclaw@163.com
+[2026-02-28 11:56:27] 检查频率：每 30 分钟
+[2026-02-28 11:56:27] PID: 22153
+[2026-02-28 11:56:27] 检查邮箱...
+[2026-02-28 11:56:27] === 检查 163 邮箱 ===
+Traceback (most recent call last):
+  File "<stdin>", line 45, in <module>
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 612, in login
+    raise self.error(dat[-1])
+imaplib.IMAP4.error: b'LOGIN Login error or password error'
+❌ 错误：b'LOGIN Login error or password error'
+[2026-02-28 11:56:31] ⏳ 未找到邀请码，继续监控...
+[2026-02-28 11:56:31] 检查完成
+[2026-02-28 11:56:31] 等待 30 分钟后再次检查...
+[2026-02-28 12:03:38] 收到终止信号，关闭监控...
+[2026-02-28 12:26:25] 收到终止信号，关闭监控...

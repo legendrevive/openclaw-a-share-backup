@@ -1,0 +1,8 @@
+
+# ============ Situation Monitor 集成 ============
+
+# Situation Monitor 新闻股价关联分析 - 每 30 分钟检查一次
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 situation_monitor_integration.py >> situation_monitor_log.txt 2>&1
+
+# 盘后深度分析 - 每天 16:00 生成详细关联报告
+0 16 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 situation_monitor_integration.py >> situation_monitor_daily.txt 2>&1

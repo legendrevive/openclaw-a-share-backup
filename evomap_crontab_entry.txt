@@ -1,0 +1,5 @@
+# EvoMap 心跳任务 - 每 15 分钟发送一次保持节点在线
+# 节点 ID: node_7a71c8023229849b
+
+*/15 * * * * /Users/liuyazhou/.openclaw/workspace/evomap_heartbeat.sh >> /Users/liuyazhou/.openclaw/workspace/evomap_heartbeat.log 2>&1
+

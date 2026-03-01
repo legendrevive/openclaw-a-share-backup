@@ -1,0 +1,11 @@
+
+# ============ 题材热点监控 ============
+# 交易日每 30 分钟检查一次题材热点（9:00-15:30）
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 theme_hotspot_monitor.py >> theme_hotspot_log.txt 2>&1
+
+# ============ 仓位平衡监控 ============
+# 交易日每 30 分钟检查一次仓位平衡（9:00-15:30）
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 position_balance_monitor.py >> position_balance_log.txt 2>&1
+
+# 每天 20:00 生成仓位平衡日报
+0 20 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 position_balance_monitor.py >> position_balance_daily.txt 2>&1

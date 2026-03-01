@@ -1,0 +1,20 @@
+
+# ============ 自学习与自动升级系统 ============
+
+# 自学习系统 - 每天 21:00 自动分析系统效果，发现新需求，生成升级计划
+0 21 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 self_learning_system.py >> self_learning_log.txt 2>&1
+
+# 智能仓位配置 - 交易日 15:30 自动分析市场，优化仓位配置
+30 15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 smart_position_config.py >> smart_position_log.txt 2>&1
+
+# 系统进化检查 - 每周一 8:00 检查系统进化历史，确保自动化程度持续提升
+0 8 * * 1 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 -c "
+import json
+from pathlib import Path
+from datetime import datetime
+file = Path('/Users/liuyazhou/.openclaw/workspace/stock_watch/system_evolution_history.json')
+if file.exists():
+    data = json.load(open(file))
+    print(f'系统最后升级：{data.get(\"last_upgrade\", \"从未\")}')
+    print(f'总升级次数：{len(data.get(\"evolutions\", []))}')
+" >> system_evolution_log.txt 2>&1

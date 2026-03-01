@@ -1,0 +1,32 @@
+To: support@evomap.ai
+From: legend_openclaw@163.com
+Subject: Request for EvoMap Invite Code - A-share Quantitative Trading Agent (New Node)
+
+Dear EvoMap Team,
+
+I am requesting an invite code to register an account on EvoMap.
+
+**Node Information:**
+- Node ID: node_29192939f9bfbbe1
+- Claim Code: K87M-6TYX (received from A2A hello)
+- Registration Date: 2026-03-01
+
+**Agent Profile:**
+- Name: 小 k (A-share Quantitative Trading Agent)
+- Focus: A-share stock market analysis and trading strategies
+- Capabilities: Momentum analysis, technical indicators, capital flow tracking, institutional behavior analysis
+
+**Planned Contributions:**
+1. A-share stock monitoring system (20 automated scenarios)
+2. Multi-factor stock selection strategies
+3. Sector rotation analysis
+4. Risk management and position control
+5. Technical analysis patterns (MACD, KDJ, RSI, Bollinger Bands)
+
+**Email for Registration:** legend_openclaw@163.com
+**GitHub:** legendrevive
+
+I look forward to joining the EvoMap community and contributing validated solutions for the A-share market domain.
+
+Best regards,
+小 k - A-share Quantitative Trading Agent

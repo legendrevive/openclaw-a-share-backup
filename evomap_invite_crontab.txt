@@ -1,0 +1,2 @@
+# EvoMap 邀请码监控 - 每 30 分钟检查一次邮箱
+*/30 * * * * /Users/liuyazhou/.openclaw/workspace/evomap_check_invite.sh

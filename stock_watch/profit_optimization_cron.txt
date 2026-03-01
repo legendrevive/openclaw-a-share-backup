@@ -1,0 +1,17 @@
+
+# ============ 赚钱导向的优化任务 ============
+
+# 持仓优化检查 - 交易日每 30 分钟检查止盈止损和仓位调整
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 position_optimizer.py >> optimization_log.txt 2>&1
+
+# 策略回测与优化 - 每天 19:00 分析策略效果，生成优化建议
+0 19 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 strategy_backtest_optimizer.py >> backtest_log.txt 2>&1
+
+# 热门题材追踪 - 交易日每 1 小时更新一次热门题材
+0 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 theme_hotspot_monitor.py >> theme_hotspot_log.txt 2>&1
+
+# 调仓建议执行提醒 - 每周五 16:00 生成下周调仓计划
+0 16 * * 5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 position_optimizer.py >> weekly_rebalance_plan.txt 2>&1
+
+# 月度策略复盘 - 每月最后一个交易日 20:00
+0 20 28-31 * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 strategy_backtest_optimizer.py >> monthly_strategy_review.txt 2>&1

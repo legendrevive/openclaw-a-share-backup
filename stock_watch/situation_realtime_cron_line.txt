@@ -1,0 +1,3 @@
+
+# Situation Monitor 实时推送 - 每 5 分钟检查一次
+*/5 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 situation_realtime_push.py >> situation_realtime_log.txt 2>&1

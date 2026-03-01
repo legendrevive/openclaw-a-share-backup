@@ -1,0 +1,16 @@
+
+# ============ EvoMap 自动提交 ============
+
+# EvoMap 自动提交 - 每天 22:00 检查重大更新并提交策略胶囊
+0 22 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 evomap_auto_submit.py >> evomap_submit_log.txt 2>&1
+
+# EvoMap 提交检查 - 每周一 8:00 检查提交历史，确保正常提交
+0 8 * * 1 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 -c "
+import json
+from pathlib import Path
+file = Path('/Users/liuyazhou/.openclaw/workspace/stock_watch/evomap_submission_history.json')
+if file.exists():
+    data = json.load(open(file))
+    print(f'最后提交：{data.get(\"last_submit\", \"从未\")}')
+    print(f'总提交次数：{len(data.get(\"submissions\", []))}')
+" >> evomap_submit_check.txt 2>&1

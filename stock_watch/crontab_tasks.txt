@@ -1,0 +1,25 @@
+# OpenClaw 股票监控系统 - 定时任务配置
+# 最后更新：2026-03-01 20:20
+
+# ============ 盘中实时监控 ============
+
+# 股票价格监控 - 交易日每 5 分钟检查
+*/5 9-11 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 stock_monitor.py >> stock_monitor_log.txt 2>&1
+*/5 13-14 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 stock_monitor.py >> stock_monitor_log.txt 2>&1
+
+# 资金流向监控 - 交易日每 30 分钟
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 money_flow_monitor.py >> money_flow_log.txt 2>&1
+
+# 实时新闻推送 - 交易日每 5 分钟
+*/5 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 news_monitor.py >> news_monitor_log.txt 2>&1
+
+# ============ 新增模块（2026-03-01） ============
+
+# 激进股配置管理 - 每 30 分钟检查（交易时段）
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 aggressive_stock_monitor.py >> aggressive_stock_log.txt 2>&1
+
+# 自主升级能力 - 每天 21:00 分析系统性能
+0 21 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 self_learning.py >> self_learning_log.txt 2>&1
+
+# 时事预测板块轮动 - 每 30 分钟预测（交易时段）
+*/30 9-15 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 sector_rotation_predictor.py >> sector_rotation_log.txt 2>&1

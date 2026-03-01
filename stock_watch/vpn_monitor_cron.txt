@@ -1,0 +1,8 @@
+
+# ============ VPN 状态监控 ============
+
+# 外网访问检测 - 每 30 分钟检查一次
+*/30 9-22 * * * cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 vpn_status_monitor.py >> vpn_status_log.txt 2>&1
+
+# 盘前检查 - 每天早上 8:55 检查外网状态
+55 8 * * 1-5 cd /Users/liuyazhou/.openclaw/workspace/stock_watch && /opt/homebrew/bin/python3.9 vpn_status_monitor.py >> vpn_status_morning.txt 2>&1
